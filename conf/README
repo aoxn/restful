@@ -1,0 +1,7 @@
+[configserver]
+ip="127.0.0.1"
+port=19000
+cache_path="as.cfg.data"
+
+[accessserver]
+bucket_pool_conn_num=8
