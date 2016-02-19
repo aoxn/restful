@@ -1,2 +1,3 @@
-# eggo
-eggo test
+# restful
+==
+a go restful http demo
